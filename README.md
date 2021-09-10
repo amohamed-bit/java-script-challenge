@@ -1,4 +1,4 @@
-https://jenniecinelli.github.io/javascript-challenge/
+
 
 # JavaScript Homework - JavaScript and DOM Manipulation
 
